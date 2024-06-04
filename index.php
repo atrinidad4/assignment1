@@ -31,7 +31,8 @@ $config = [
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="main.css">
-    <title>Assignment 1</title>
+    <title><?php echo $config['Alyssa Gallery']; ?>Assignment 1 -</title>
+    <!-- change the title to dynamically show -->
 </head>
 <body>
     <!-- Remember that alternative syntax is good and html inside php is bad -->
