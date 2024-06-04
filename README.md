@@ -1,1 +1,1 @@
-Chnages made on title
+Changes made on title
